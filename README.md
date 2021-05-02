@@ -1,2 +1,2 @@
-# test_project
+# Read me
 Algorithm test folder
