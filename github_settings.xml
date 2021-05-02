@@ -1,0 +1,6 @@
+<application>
+  <component name="GithubSettings">
+    <option name="AUTH_TYPE" value="TOKEN" />
+    <option name="CONNECTION_TIMEOUT" value="15000" />
+  </component>
+</application>
